@@ -21,19 +21,19 @@ class po {
 }
 
 
-matrix multiplication main loop
-
-for(int i=0;i<m1;i++)
-for(int j=0;j<n2;j++)
-c[i][j]=0;
-for(int k=0;k<n1;k++)
-c[i][j]=c[i][j]+a[i][k]*b[k][j];
 
 
-print final statement 
-for(int i=0;i<m1;i++)
-for(int j=0;j<n2;j++)
-print(c[i][j])
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -238,7 +238,11 @@ class Matrixmultiply
 
 }
 
-palindrome 
+
+
+
+
+palindrome :
 
 import java.util.Scanner;
 
@@ -286,7 +290,9 @@ System.out.println("not Palindrome");
 
 }
 
-frequency :
+
+
+ frequency :
 
 import java.util.Scanner;
 
